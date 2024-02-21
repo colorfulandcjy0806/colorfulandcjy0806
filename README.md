@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chen Junyang（陈骏扬）</h1>
-<h3 align="center">A passionate artificial intelligence graduate student 🧑‍🎓 studying at the ⭐️ PAttern Learning and Mining (PALM) Lab ⭐️ at Southeast University in China🇨🇳, **with a keen interest in computer visionand multimodal perception**!</h3>
+<h3 align="center">A passionate artificial intelligence graduate student 🧑‍🎓 studying at the ⭐️ PAttern Learning and Mining (PALM) Lab ⭐️ at Southeast University in China🇨🇳, <strong>with a keen interest in computer visionand multimodal perception!</strong></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colorfulandcjy0806&label=Profile%20views&color=b4590e&style=flat" alt="colorfulandcjy0806" /> </p>
 
